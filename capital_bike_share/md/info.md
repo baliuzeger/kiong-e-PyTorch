@@ -6,3 +6,6 @@ from `ch3-predictor-re.ipynb`. The x data correctly excluded the **cnt**.
 
 #### mdy0_1_wts.pth
 From `ch3-predictor-re.ipynb`.A trial for using unnormalized y data.
+
+#### md0_m6_wts.pth
+From `ch3-predictor-practical.ipynb`. Use the data 6 hours ago instead of the current time.
